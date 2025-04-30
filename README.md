@@ -53,5 +53,5 @@ This Python script ingests publication and citation data, enriches it with metad
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-org/journal-scoring.git
-   cd journal-scoring
+   git clone https://github.com/kglibrarian/Galter_Collection_Analysis
+   cd Galter_Collection_Analysis
